@@ -1,0 +1,8 @@
+# import math: This line imports the math module, which provides access to various mathematical functions and constants.
+# import os: This line imports the os module, which allows you to interact with the operating system, such as creating, deleting, or renaming files and directories.
+# import random: This line imports the random module, which provides functions for generating random numbers and making random choices.
+# import re: This line imports the re module, which provides support for regular expressions in Python.
+# import sys: This line imports the sys module, which provides access to some variables used or maintained by the interpreter and to functions that interact strongly with the interpreter.
+# if __name__ == '__main__':: This is a conditional statement that checks if the script is being run as the main program. The __name__ variable is a built-in variable in Python that represents the name of the current module. When a script is run directly, the __name__ variable is set to '__main__'. This condition is often used to include code that should only be executed when the script is run directly, and not when it is imported as a module.
+# n = int(input().strip()): This line prompts the user to enter an input value and converts it to an integer using the int() function. The strip() method is used to remove any leading or trailing whitespace characters from the input.
+# tdin (standard input) is a file stream in Unix-based operating systems (including Linux and macOS) that represents the default input source for a program. It is one of three standard input/output streams, along with stdout (standard output) and stderr (standard error).
